@@ -1,9 +1,9 @@
 # Telecom-Company---Data-Analytics-project
-Here, we have analyzed the dataset of an European Telecom Company.
+Here, I have analyzed the dataset of an European Telecom Company.
 
-This Telecom's Attrition Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer cancelled the subscription.
+This Telecom's Attrition Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer canceled the subscription.
 
-We explore and analyze the data to discover key factors responsible for customer attrition and come up with ways/recommendations to ensure customer retention.
+I explored and analyzed the data to discover key factors responsible for customer attrition and came up with ways/recommendations to ensure customer retention.
 
 Business Understanding Of A Telecom Industry Customer Attrition:
 
@@ -16,4 +16,4 @@ In this highly competitive market, the telecommunications industry experiences a
 Therefore, finding those factors that increase customer attrition is important to take necessary actions to reduce this attrition.
 
 The main goal of our project is to develop an understanding of the cause of customer attrition which assists telecom operators to predict customers who are most likely subject to attrition, and what to do to retain the most valuable customer.
-We will find how we can maximize the profit by retaining customer, and, how we can reduce the attrition rate by identifying the issues.
+I will find how we can maximize the profit by retaining customer, and, how we can reduce the attrition rate by identifying the issues.
